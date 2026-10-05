@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/156656249?s=200&v=4" alt="Intelligence Modding" width="150">
-</p>
-
 <h1 align="center">Intelligence Modding</h1>
 
 <p align="center">
