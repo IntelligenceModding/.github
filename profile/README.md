@@ -24,6 +24,7 @@ Our work ranges from large technology mods and ComputerCraft extensions to small
 | 🪨 **Climbing Claws** | A survival-friendly climbing tool for traversing walls, ceilings, caves, cliffs, and builds. | [GitHub](https://github.com/IntelligenceModding/ClimbingClaws) |
 | ⚙️ **Omni Wheel** | A client-side radial menu for commands, shortcuts, chat actions, and configurable utilities. | [GitHub](https://github.com/IntelligenceModding/OmniWheel) |
 | 🎟️ **Coupon Codes** | Collectible coupons that provide useful bonuses throughout normal Minecraft gameplay. | [GitHub](https://github.com/IntelligenceModding/CouponCodes) |
+| 💎 **Common Trades** | Automatically adds suitable modded flora to Wandering Trader trades for seamless modpack integration. | [GitHub](https://github.com/IntelligenceModding/CommonTrades) |
 
 Other projects, experiments, development tools, and documentation can also be found throughout our repositories.
 
